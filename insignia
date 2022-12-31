@@ -1,4 +1,4 @@
-lloro association dfrom discord import app_commands, Intents, Client, Interaction
+lloro aaiationñaaiationñiaaaiationñaaiiationñaaiationñiaaaiationñaaiiation lloroiation dfrom discord import app_commands, Intents, Client, Interaction
  
  
 class Bot(Client):

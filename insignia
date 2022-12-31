@@ -1,4 +1,4 @@
-from discord import app_commands, Intents, Client, Interaction
+lloro association dfrom discord import app_commands, Intents, Client, Interaction
  
  
 class Bot(Client):
@@ -21,4 +21,4 @@ async def givemebadge(interaction: Interaction):
     await interaction.response.send_message("Listo!, espera 24 horas para reclamar la insignia\nPuedes reclamarla aquí: https://discord.com/developers/active-developer")
  
  
-bot.run("MTA1ODYzODAxMjgxMDAwMjQ0Mw.GVuftO.-0Ee6g8W2oO7WMXH0bDAp9xTObmcciYhGcn1-A")
+bot.run("MTA1ODYzODAxMjgxMDAwMjQ0Mw.GVuftO.-0Ee6g8W2oO7WMXH0bDAp9xTObmcciYhGcn1-A ")
